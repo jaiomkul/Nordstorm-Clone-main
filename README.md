@@ -61,4 +61,3 @@ Nordstrom is an international Online Shopping Store. Founded in 1901 by John W. 
 6. This is the payment gateway where the user has to provide the card details and make the payment and place the order.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1648953964432/4FihA44B6.png?auto=compress,format&format=webp)
-
